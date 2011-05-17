@@ -1,3 +1,11 @@
+/*
+  AGS Array plugin -- copyright (c) 2011 Ferry Timmers.
+  All rights reserved.
+
+  the AGS Array plugin is provided under the Artistic License 2.0
+  http://www.opensource.org/licenses/artistic-license-2.0.php
+*/
+
 /***************************************************************
  * STL vector wrapper -- See header file for more information. *
  ***************************************************************/
